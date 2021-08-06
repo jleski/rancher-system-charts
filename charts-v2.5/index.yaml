@@ -1,0 +1,2825 @@
+apiVersion: v1
+entries:
+  rancher-cis-benchmark:
+  - apiVersion: v1
+    appVersion: 0.1.2
+    created: "2021-08-06T12:12:12.551424+03:00"
+    description: 'Run CIS benchmark tests '
+    digest: e841a09c8fbd7e63a927c8c1c9657a4ffee1451b75683a7d848f1c0d18da8458
+    home: https://github.com/rancher/system-charts/charts/rancher-cis-benchmark
+    maintainers:
+    - email: leodotcloud@gmail.com
+      name: Murali Paluru
+    name: rancher-cis-benchmark
+    sources:
+    - https://github.com/rancher/system-charts/charts/rancher-cis-benchmark
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-cis-benchmark-0.1.2/rancher-cis-benchmark-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: 0.1.1
+    created: "2021-08-06T12:12:12.346868+03:00"
+    description: 'Run CIS benhmark tests '
+    digest: 06edeb5ea1caf133483f1949aefebbac36b51ef321fafbb0b9a0bde29d8ffd75
+    home: https://github.com/rancher/system-charts/charts/rancher-cis-benchmark
+    maintainers:
+    - email: leodotcloud@gmail.com
+      name: Murali Paluru
+    name: rancher-cis-benchmark
+    sources:
+    - https://github.com/rancher/system-charts/charts/rancher-cis-benchmark
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-cis-benchmark-0.1.1/rancher-cis-benchmark-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2021-08-06T12:12:12.152034+03:00"
+    description: 'Run CIS benhmark tests '
+    digest: f24a6dd0fa93754662c84192c4fa043f078eb23a5770c86251dd15c30833038a
+    home: https://github.com/rancher/system-charts/charts/rancher-cis-benchmark
+    maintainers:
+    - email: leodotcloud@gmail.com
+      name: Murali Paluru
+    name: rancher-cis-benchmark
+    sources:
+    - https://github.com/rancher/system-charts/charts/rancher-cis-benchmark
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-cis-benchmark-0.1.0/rancher-cis-benchmark-0.1.0.tgz
+    version: 0.1.0
+  rancher-eks-operator:
+  - apiVersion: v1
+    appVersion: v1.0.8
+    created: "2021-08-06T12:12:13.845585+03:00"
+    description: A Helm chart for provisioning EKS clusters
+    digest: f7ef829daa14e3dbd1cc730eff2b6d6d98fcefce5ab58c6047f29182612db235
+    home: https://github.com/rancher/eks-operator
+    name: rancher-eks-operator
+    sources:
+    - https://github.com/rancher/eks-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-eks-operator-1.0.800/rancher-eks-operator-1.0.800.tgz
+    version: 1.0.800
+  - apiVersion: v1
+    appVersion: v1.0.7
+    created: "2021-08-06T12:12:13.631359+03:00"
+    description: A Helm chart for provisioning EKS clusters
+    digest: 923e8c04efc3c1c761e4707de741907d2d677607c648c06c619fde21111e6e07
+    home: https://github.com/rancher/eks-operator
+    name: rancher-eks-operator
+    sources:
+    - https://github.com/rancher/eks-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-eks-operator-1.0.700/rancher-eks-operator-1.0.700.tgz
+    version: 1.0.700
+  - apiVersion: v1
+    appVersion: v1.0.6
+    created: "2021-08-06T12:12:13.44942+03:00"
+    description: A Helm chart for provisioning EKS clusters
+    digest: 12a9cb58b55099033fe45d42dee3e4d9a7578c9055b9cbf92aa683341e5ca425
+    home: https://github.com/rancher/eks-operator
+    name: rancher-eks-operator
+    sources:
+    - https://github.com/rancher/eks-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-eks-operator-1.0.600/rancher-eks-operator-1.0.600.tgz
+    version: 1.0.600
+  - apiVersion: v1
+    appVersion: v1.0.5
+    created: "2021-08-06T12:12:13.259194+03:00"
+    description: A Helm chart for provisioning EKS clusters
+    digest: a722c30cb04e4998339e9d23714a01d333b7019589bbd47ab38c4332fee1f172
+    home: https://github.com/rancher/eks-operator
+    name: rancher-eks-operator
+    sources:
+    - https://github.com/rancher/eks-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-eks-operator-1.0.500/rancher-eks-operator-1.0.500.tgz
+    version: 1.0.500
+  - apiVersion: v1
+    appVersion: v1.0.4
+    created: "2021-08-06T12:12:13.081824+03:00"
+    description: A Helm chart for provisioning EKS clusters
+    digest: 50c5091a30e251c2cd206fa45f87c249153ce20a14c94601b4173f9000e6ae0f
+    home: https://github.com/rancher/eks-operator
+    name: rancher-eks-operator
+    sources:
+    - https://github.com/rancher/eks-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-eks-operator-1.0.400/rancher-eks-operator-1.0.400.tgz
+    version: 1.0.400
+  - apiVersion: v1
+    appVersion: v1.0.1
+    created: "2021-08-06T12:12:12.896858+03:00"
+    description: A Helm chart for provisioning EKS clusters
+    digest: 144d22c736834f922456c653c6747fb2fed155ce1750a8914bd4496c2a111c61
+    home: https://github.com/rancher/eks-operator
+    name: rancher-eks-operator
+    sources:
+    - https://github.com/rancher/eks-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-eks-operator-1.0.101/rancher-eks-operator-1.0.101.tgz
+    version: 1.0.101
+  - apiVersion: v1
+    appVersion: v1.0.1
+    created: "2021-08-06T12:12:12.721903+03:00"
+    description: A Helm chart for provisioning EKS clusters
+    digest: 1c7ae489ccaaf9052e46efdfa16c1281f66d2e56693ab836390bc47f05773bcb
+    home: https://github.com/rancher/eks-operator
+    name: rancher-eks-operator
+    sources:
+    - https://github.com/rancher/eks-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-eks-operator-1.0.100/rancher-eks-operator-1.0.100.tgz
+    version: 1.0.100
+  rancher-external-dns:
+  - apiVersion: v1
+    appVersion: 0.7.3
+    created: "2021-08-06T12:12:14.794343+03:00"
+    description: 'Configure external DNS servers (AWS Route53, Google CloudDNS and
+      others) for Kubernetes Ingresses and Services '
+    digest: 35e24d507d715fdec132f646edf933aa39dfbb1790bd6b2f08ac908936129253
+    home: https://github.com/kubernetes-sigs/external-dns
+    maintainers:
+    - email: rabadin@cisco.com
+      name: rabadin
+    name: rancher-external-dns
+    sources:
+    - https://github.com/kubernetes-sigs/external-dns
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-external-dns-0.1.2/rancher-external-dns-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: 0.7.3
+    created: "2021-08-06T12:12:14.611759+03:00"
+    description: 'Configure external DNS servers (AWS Route53, Google CloudDNS and
+      others) for Kubernetes Ingresses and Services '
+    digest: 594bb9646e228e484ad0d51fabde6edcf31d31a09e57c6a4da2ec53f8cb17515
+    home: https://github.com/kubernetes-sigs/external-dns
+    maintainers:
+    - email: rabadin@cisco.com
+      name: rabadin
+    name: rancher-external-dns
+    sources:
+    - https://github.com/kubernetes-sigs/external-dns
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-external-dns-0.1.1/rancher-external-dns-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: 0.6.0
+    created: "2021-08-06T12:12:14.426669+03:00"
+    description: 'Configure external DNS servers (AWS Route53, Google CloudDNS and
+      others) for Kubernetes Ingresses and Services '
+    digest: ac5b7d76752076d33b970cc727adff35704d568046104ac42f4def23cdebea85
+    home: https://github.com/kubernetes-incubator/external-dns
+    maintainers:
+    - email: rabadin@cisco.com
+      name: rabadin
+    name: rancher-external-dns
+    sources:
+    - https://github.com/kubernetes-incubator/external-dns
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-external-dns-0.1.0/rancher-external-dns-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: 0.5.11
+    created: "2021-08-06T12:12:14.223295+03:00"
+    description: 'Configure external DNS servers (AWS Route53, Google CloudDNS and
+      others) for Kubernetes Ingresses and Services '
+    digest: 8dac1c9f7dc0712055e22048aaefc61c25e0490268782ea5f007b5613d55f582
+    home: https://github.com/kubernetes-incubator/external-dns
+    maintainers:
+    - email: rabadin@cisco.com
+      name: rabadin
+    name: rancher-external-dns
+    sources:
+    - https://github.com/kubernetes-incubator/external-dns
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-external-dns-0.0.2/rancher-external-dns-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v1
+    appVersion: 0.5.11
+    created: "2021-08-06T12:12:14.041055+03:00"
+    description: 'Configure external DNS servers (AWS Route53, Google CloudDNS and
+      others) for Kubernetes Ingresses and Services '
+    digest: e1dc188df9202a826f1324cba58e58b3027fb419e776d83eda29147ea9c0368d
+    home: https://github.com/kubernetes-incubator/external-dns
+    maintainers:
+    - email: rabadin@cisco.com
+      name: rabadin
+    name: rancher-external-dns
+    sources:
+    - https://github.com/kubernetes-incubator/external-dns
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-external-dns-0.0.1/rancher-external-dns-0.0.1.tgz
+    version: 0.0.1
+  rancher-gatekeeper-operator:
+  - apiVersion: v1
+    appVersion: v3.1.0-beta.7
+    created: "2021-08-06T12:12:14.978674+03:00"
+    description: A Helm chart for Gatekeeper
+    digest: 009e3e70042ffeb9b9cee4d6b518942b02ec200dc5d8a1ce65fde5045a2b38b6
+    home: https://github.com/open-policy-agent/gatekeeper
+    keywords:
+    - open policy agent
+    name: rancher-gatekeeper-operator
+    sources:
+    - https://github.com/open-policy-agent/gatekeeper.git
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-gatekeeper-operator-0.1.0/rancher-gatekeeper-operator-0.1.0.tgz
+    version: 0.1.0
+  rancher-gke-operator:
+  - apiVersion: v1
+    appVersion: v1.0.3
+    created: "2021-08-06T12:12:15.334118+03:00"
+    description: A Helm chart for provisioning GKE clusters
+    digest: 81408b55a662f3d797ed8ca03601d8ff66667c72e3a41ea26929f3da9d4fb5ee
+    home: https://github.com/rancher/gke-operator
+    name: rancher-gke-operator
+    sources:
+    - https://github.com/rancher/gke-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-gke-operator-1.0.300/rancher-gke-operator-1.0.300.tgz
+    version: 1.0.300
+  - apiVersion: v1
+    appVersion: v1.0.1
+    created: "2021-08-06T12:12:15.155799+03:00"
+    description: A Helm chart for provisioning GKE clusters
+    digest: 7373926bf80f9ae453bd69818004024e176f121006569e272251392b85d32afc
+    home: https://github.com/rancher/gke-operator
+    name: rancher-gke-operator
+    sources:
+    - https://github.com/rancher/gke-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-gke-operator-1.0.100/rancher-gke-operator-1.0.100.tgz
+    version: 1.0.100
+  rancher-istio:
+  - apiVersion: v1
+    appVersion: 1.5.9
+    created: "2021-08-06T12:12:17.758659+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.5.9
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.5.9
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.5.9
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.5.9
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.5.9
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.5.9
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.5.9
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.5.9
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.5.9
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.5.9
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.5.9
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.5.9
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.5.9
+    description: Helm chart for all istio components
+    digest: edf65ef8e12c36c5219544661a9b7821566cba159d23f556cea0370688ecb555
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.5.901/rancher-istio-1.5.901.tgz
+    version: 1.5.901
+  - apiVersion: v1
+    appVersion: 1.5.9
+    created: "2021-08-06T12:12:17.56298+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.5.9
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.5.9
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.5.9
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.5.9
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.5.9
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.5.9
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.5.9
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.5.9
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.5.9
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.5.9
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.5.9
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.5.9
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.5.9
+    description: Helm chart for all istio components
+    digest: f6e16096ecbfae5a61e4f6dc1c9beb40c5b3a46bd2566b6802fec66c632054fe
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.5.900/rancher-istio-1.5.900.tgz
+    version: 1.5.900
+  - apiVersion: v1
+    appVersion: 1.5.8
+    created: "2021-08-06T12:12:17.360268+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.5.8
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.5.8
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.5.8
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.5.8
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.5.8
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.5.8
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.5.8
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.5.8
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.5.8
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.5.8
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.5.8
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.5.8
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.5.8
+    description: Helm chart for all istio components
+    digest: d9682aa2d1ffde305c1825c8a93376ce8790eff5c339e51ba2e173bd4e83b61e
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.5.800/rancher-istio-1.5.800.tgz
+    version: 1.5.800
+  - apiVersion: v1
+    appVersion: 1.4.10
+    created: "2021-08-06T12:12:15.952298+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.4.10
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.4.10
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.4.10
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.4.10
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.4.10
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.4.10
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.4.10
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.4.10
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.4.10
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.4.10
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.4.10
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.4.10
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.4.10
+    description: Helm chart for all istio components
+    digest: a9d9f903a5bec491fa68bbe7b4f5961fa15c58cce1423a55151a813ea38a765d
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.4.1000/rancher-istio-1.4.1000.tgz
+    version: 1.4.1000
+  - apiVersion: v1
+    appVersion: 1.4.9
+    created: "2021-08-06T12:12:17.153219+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.4.9
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.4.9
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.4.9
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.4.9
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.4.9
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.4.9
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.4.9
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.4.9
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.4.9
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.4.9
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.4.9
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.4.9
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.4.9
+    description: Helm chart for all istio components
+    digest: 822b836ef48f8ad4d228d7dc8530a9925e2a5a09694e3baea7ca77fbd9f78d6e
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.4.900/rancher-istio-1.4.900.tgz
+    version: 1.4.900
+  - apiVersion: v1
+    appVersion: 1.4.7
+    created: "2021-08-06T12:12:16.960913+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.4.7
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.4.7
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.4.7
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.4.7
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.4.7
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.4.7
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.4.7
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.4.7
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.4.7
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.4.7
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.4.7
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.4.7
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.4.7
+    description: Helm chart for all istio components
+    digest: bbb1cd69abc876f357cb539a041e3c7e4e2c4c7f8a26e7c5d7cdcc87509d5215
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.4.700/rancher-istio-1.4.700.tgz
+    version: 1.4.700
+  - apiVersion: v1
+    appVersion: 1.4.6
+    created: "2021-08-06T12:12:16.750055+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.4.6
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.4.6
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.4.6
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.4.6
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.4.6
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.4.6
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.4.6
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.4.6
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.4.6
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.4.6
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.4.6
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.4.6
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.4.6
+    description: Helm chart for all istio components
+    digest: d9be0b5a65edf70adce6caf739a0e9065ef9f1d22f2dd432b3f2c4d58a72a1d9
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.4.600/rancher-istio-1.4.600.tgz
+    version: 1.4.600
+  - apiVersion: v1
+    appVersion: 1.4.4
+    created: "2021-08-06T12:12:16.553374+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.4.4
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.4.4
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.4.4
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.4.4
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.4.4
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.4.4
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.4.4
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.4.4
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.4.4
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.4.4
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.4.4
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.4.4
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.4.4
+    description: Helm chart for all istio components
+    digest: 3ad803ace8878c2f78d23251759c44b06c0c0751522d4afd5791a6ab097b99e0
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.4.400/rancher-istio-1.4.400.tgz
+    version: 1.4.400
+  - apiVersion: v1
+    appVersion: 1.4.3
+    created: "2021-08-06T12:12:16.351678+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.4.3
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.4.3
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.4.3
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.4.3
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.4.3
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.4.3
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.4.3
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.4.3
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.4.3
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.4.3
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.4.3
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.4.3
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.4.3
+    description: Helm chart for all istio components
+    digest: 07992567d1889e492a2821d6cd969abd1e0c028e37a6f262de8e5ece04a06238
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.4.300/rancher-istio-1.4.300.tgz
+    version: 1.4.300
+  - apiVersion: v1
+    appVersion: 1.4.3
+    created: "2021-08-06T12:12:16.155121+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.4.3
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.4.3
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.4.3
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.4.3
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.4.3
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.4.3
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.4.3
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.4.3
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.4.3
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.4.3
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.4.3
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.4.3
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.4.3
+    description: Helm chart for all istio components
+    digest: 80d990fdd66ffbad75493092904d0cfabc995a32890284f0e3c394b369098fac
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-1.4.3/rancher-istio-1.4.3.tgz
+    version: 1.4.3
+  - apiVersion: v1
+    appVersion: 1.3.3
+    created: "2021-08-06T12:12:15.733221+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.1.0
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.1.0
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.1.0
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.1.0
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.1.0
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.1.0
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.1.0
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.1.0
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.1.0
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.1.0
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.1.0
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.1.0
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.1.0
+    - condition: istio-init.enabled
+      name: istio-init
+      repository: ""
+      version: 1.1.0
+    description: Helm chart for all istio components
+    digest: dc602f80f9259ff92e4b24da9c03c2e33ed96ea6c997177e272e0d49f14abc80
+    home: https://istio.io/
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    maintainers:
+    - name: istio
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-0.1.1/rancher-istio-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: 1.3.1
+    created: "2021-08-06T12:12:15.536674+03:00"
+    dependencies:
+    - condition: sidecarInjectorWebhook.enabled
+      name: sidecarInjectorWebhook
+      repository: ""
+      version: 1.1.0
+    - condition: security.enabled
+      name: security
+      repository: ""
+      version: 1.1.0
+    - condition: gateways.enabled
+      name: gateways
+      repository: ""
+      version: 1.1.0
+    - condition: or mixer.policy.enabled mixer.telemetry.enabled
+      name: mixer
+      repository: ""
+      version: 1.1.0
+    - condition: nodeagent.enabled
+      name: nodeagent
+      repository: ""
+      version: 1.1.0
+    - condition: pilot.enabled
+      name: pilot
+      repository: ""
+      version: 1.1.0
+    - condition: grafana.enabled
+      name: grafana
+      repository: ""
+      version: 1.1.0
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: ""
+      version: 1.1.0
+    - condition: tracing.enabled
+      name: tracing
+      repository: ""
+      version: 1.1.0
+    - condition: galley.enabled
+      name: galley
+      repository: ""
+      version: 1.1.0
+    - condition: kiali.enabled
+      name: kiali
+      repository: ""
+      version: 1.1.0
+    - condition: istiocoredns.enabled
+      name: istiocoredns
+      repository: ""
+      version: 1.1.0
+    - condition: certmanager.enabled
+      name: certmanager
+      repository: ""
+      version: 1.1.0
+    - condition: istio-init.enabled
+      name: istio-init
+      repository: ""
+      version: 1.1.0
+    description: Helm chart for all istio components
+    digest: 1e8954611df08bef6536d2e93e067032c5da5c67946503739938e9e7ec316d67
+    home: https://istio.io/
+    icon: https://istio.io/favicons/android-192x192.png
+    keywords:
+    - istio
+    - security
+    - sidecarInjectorWebhook
+    - mixer
+    - pilot
+    - galley
+    maintainers:
+    - name: istio
+    name: rancher-istio
+    sources:
+    - http://github.com/istio/istio
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-istio-0.1.0/rancher-istio-0.1.0.tgz
+    version: 0.1.0
+  rancher-k3s-upgrader:
+  - apiVersion: v1
+    appVersion: v0.6.2
+    created: "2021-08-06T12:12:18.349349+03:00"
+    description: Enables a k3s or rke2 cluster to update itself by reacting to Plan
+      CRs. Users do not need to manually upgrade this app. It will be automatically
+      upgraded to the latest version when upgrading a cluster.
+    digest: d69e3394a207369fba46ef03fd59586c39a6ddb41b3a7ebec17f1a1b0041f3a7
+    home: https://github.com/rancher/system-charts/blob/dev-v2.4/charts/rancher-k3s-upgrader
+    name: rancher-k3s-upgrader
+    sources:
+    - https://github.com/rancher/system-charts/blob/dev-v2.4/charts/rancher-k3s-upgrader
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-k3s-upgrader-0.2.1/rancher-k3s-upgrader-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    appVersion: v0.6.2
+    created: "2021-08-06T12:12:18.118948+03:00"
+    description: Enables a k3s or rke2 cluster to update itself by reacting to Plan
+      CRs. Users do not need to manually upgrade this app. It will be automatically
+      upgraded to the latest version when upgrading a cluster.
+    digest: 525368d089fef00e6e7f97df4b43acefa5f992866af89705eca247caff782c6d
+    home: https://github.com/rancher/system-charts/blob/dev-v2.4/charts/rancher-k3s-upgrader
+    name: rancher-k3s-upgrader
+    sources:
+    - https://github.com/rancher/system-charts/blob/dev-v2.4/charts/rancher-k3s-upgrader
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-k3s-upgrader-0.2.0/rancher-k3s-upgrader-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: v0.4.0
+    created: "2021-08-06T12:12:17.941073+03:00"
+    description: Enables a k3s cluster to update itself by reacting to Plan CRs.
+    digest: bdb8280dabf9ca587d77984fb1666a1ccff2b12f95a60ee8b50dcb7bb66ea003
+    home: https://github.com/rancher/system-charts/charts/system-upgrade-controller
+    name: rancher-k3s-upgrader
+    sources:
+    - https://github.com/rancher/system-charts/charts/system-upgrade-controller
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-k3s-upgrader-0.1.0/rancher-k3s-upgrader-0.1.0.tgz
+    version: 0.1.0
+  rancher-logging:
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2021-08-06T12:12:20.218259+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.2
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.2
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.2
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: ac719966f04db4d1cf44e65ffce9001c88092006c703ce6e23ddaf630ec42dc5
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.2.4/rancher-logging-0.2.4.tgz
+    version: 0.2.4
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2021-08-06T12:12:20.036418+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.2
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.2
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.2
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: 6f933116b073a707ce450646f093c24ecbaebd758f31588eb934a7c0c5f3b70a
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.2.3/rancher-logging-0.2.3.tgz
+    version: 0.2.3
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2021-08-06T12:12:19.844489+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.2
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.2
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.2
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: 488f4f74e067bb687a254e2b6ec9b6b06b60ff5c07d6e6701337b8946e57ee84
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.2.2/rancher-logging-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2021-08-06T12:12:19.662354+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.2
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.2
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.2
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: fc7abd37703e3784b7f8941c107021727926d5a9f2d393d3aae860b715d07e36
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.2.1/rancher-logging-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2021-08-06T12:12:19.473685+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.2
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.2
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.2
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: 13b297aa2f2b0cd13dc62ffa2e3751221f84209b9a4ae0f43e6c2db433e7094d
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.2.0/rancher-logging-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2021-08-06T12:12:19.282048+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.2
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.2
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.2
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: 7b8d4ab1ef3b946135eb30f14a9342c704e17cd268718595b3514fbb477534c1
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.1.4/rancher-logging-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2021-08-06T12:12:19.093415+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.2
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.2
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.2
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: e2554cc2c2ddc4bafe032565bc8cededf33cf1609a47232249d4d8f843f8855f
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.1.3/rancher-logging-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: 1.6.3
+    created: "2021-08-06T12:12:18.894954+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.2
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.2
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.2
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: 9f0485db2b7229d464cffbffc43b9239148de7157f30aea05f422e77f932a6cf
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.1.2/rancher-logging-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: v1.1.3
+    created: "2021-08-06T12:12:18.712055+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.1
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.1
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.1
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: 1d1b0a9a2493fc2d810969aa2624ac2d6f261fe98aa3b008df6da419fe7e54dd
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.1.1/rancher-logging-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: v1.1.3
+    created: "2021-08-06T12:12:18.534115+03:00"
+    dependencies:
+    - condition: fluentd.enabled
+      name: fluentd
+      repository: file://./charts/fluentd/
+      version: 0.0.1
+    - condition: log-aggregator.enabled
+      name: log-aggregator
+      repository: file://./charts/log-aggregator/
+      version: 0.0.1
+    - condition: fluentd-tester.enabled
+      name: fluentd-tester
+      repository: file://./charts/fluentd-tester/
+      version: 0.0.1
+    description: Rancher logging helm chart to support logging function in rancher
+    digest: ab768c39bcf481e88eca42e13ff575711f2c3db8d0c9f893873f1afa24ca11d3
+    home: https://www.fluentd.org/
+    icon: https://raw.githubusercontent.com/fluent/fluentd-docs/master/public/logo/Fluentd_square.png
+    maintainers:
+    - email: support@rancher.com
+      name: Michelia
+    name: rancher-logging
+    sources:
+    - https://www.fluentd.org/
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-logging-0.1.0/rancher-logging-0.1.0.tgz
+    version: 0.1.0
+  rancher-monitoring:
+  - apiVersion: v1
+    appVersion: 0.2.2
+    created: "2021-08-06T12:12:23.511053+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    - condition: webhook-receiver.enabled
+      name: webhook-receiver
+      repository: file://./charts/webhook-receiver/
+      version: 0.0.1
+    description: Provides monitoring for Kubernetes which is maintained by Rancher
+      2.
+    digest: 155eb2ef5a0d6eadea1f4248b6a344e0be19f24ba2b17444d4ebb87a8b504af7
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.2.2/rancher-monitoring-0.2.2.tgz
+    version: 0.2.2
+  - apiVersion: v1
+    appVersion: 0.2.1
+    created: "2021-08-06T12:12:23.306123+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    - condition: webhook-receiver.enabled
+      name: webhook-receiver
+      repository: file://./charts/webhook-receiver/
+      version: 0.0.1
+    description: Provides monitoring for Kubernetes which is maintained by Rancher
+      2.
+    digest: 1c9dca8e7edd9c6c21c45b8fff00f1e63f7f19694230c87bb073fecee9c4dd85
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.2.1/rancher-monitoring-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v1
+    appVersion: 0.2.0
+    created: "2021-08-06T12:12:23.112791+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    - condition: webhook-receiver.enabled
+      name: webhook-receiver
+      repository: file://./charts/webhook-receiver/
+      version: 0.0.1
+    description: Provides monitoring for Kubernetes which is maintained by Rancher
+      2.
+    digest: c95b4228be6c7f5004f4284f22fc95cefd87298f438fd6ffa2b19565b58bdc3d
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    kubeVersion: '>=1.16.0-0'
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.2.0/rancher-monitoring-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: 0.1.5
+    created: "2021-08-06T12:12:22.890773+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    - condition: webhook-receiver.enabled
+      name: webhook-receiver
+      repository: file://./charts/webhook-receiver/
+      version: 0.0.1
+    description: Provides monitoring for Kubernetes which is maintained by Rancher
+      2.
+    digest: 825fe8abfc29ff7479480fd04719cb3f3992d47be5ff6e5bd204d62cbdbb82eb
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.1.5/rancher-monitoring-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v1
+    appVersion: 0.1.4
+    created: "2021-08-06T12:12:22.676672+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    - condition: webhook-receiver.enabled
+      name: webhook-receiver
+      repository: file://./charts/webhook-receiver/
+      version: 0.0.1
+    description: Provides monitoring for Kubernetes which is maintained by Rancher
+      2.
+    digest: dcabfdc3f641e0e17cd9a3c06656ac64790df5e2199b2c6892ce6df7a7f826f7
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.1.4/rancher-monitoring-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v1
+    appVersion: 0.1.3
+    created: "2021-08-06T12:12:22.473995+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    - condition: webhook-receiver.enabled
+      name: webhook-receiver
+      repository: file://./charts/webhook-receiver/
+      version: 0.0.1
+    description: Provides monitoring for Kubernetes which is maintained by Rancher
+      2.
+    digest: 07ec3e039444acb6dbb0942ce4f4a2e9a1bff84998b99eea449f26670a69f844
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.1.3/rancher-monitoring-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v1
+    appVersion: 0.1.2
+    created: "2021-08-06T12:12:22.268738+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    - condition: webhook-receiver.enabled
+      name: webhook-receiver
+      repository: file://./charts/webhook-receiver/
+      version: 0.0.1
+    description: Provides monitoring for Kubernetes which is maintained by Rancher
+      2.
+    digest: 5c7dceaa02ed98f13a61a784c224bebf2b37f7abec18f6151706bc589c1f1f0f
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.1.2/rancher-monitoring-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: 0.1.1
+    created: "2021-08-06T12:12:22.050397+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    description: Provides monitoring for Kubernetes which maintaining by Rancher 2.
+    digest: 4664a8109380dbf051311cccaeaa95583d99f49b1a980e3c17ef0d146faf98fa
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.1.1/rancher-monitoring-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: "2021-08-06T12:12:21.843742+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    description: Provides monitoring for Kubernetes which maintaining by Rancher 2.
+    digest: 0f15d21fac9c7b94ce3f5d3bdb42eef93c38b67ed1848f2d1151d88c1c71e7c8
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.1.0/rancher-monitoring-0.1.0.tgz
+    version: 0.1.0
+  - apiVersion: v1
+    appVersion: 0.0.7
+    created: "2021-08-06T12:12:21.644297+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    description: Provides monitoring for Kubernetes which maintaining by Rancher 2.
+    digest: 268b37b3cf1d8bf945f8bd5c3ffbfd5c0309c05315d71f7e7cccbc4f33d55184
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.0.7/rancher-monitoring-0.0.7.tgz
+    version: 0.0.7
+  - apiVersion: v1
+    appVersion: 0.0.6
+    created: "2021-08-06T12:12:21.394558+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    description: Provides monitoring for Kubernetes which maintaining by Rancher 2.
+    digest: 3256b080fe8560d8407146367d99be176e24c16f8237c87787a05495d0809ca6
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.0.6/rancher-monitoring-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v1
+    appVersion: 0.0.5
+    created: "2021-08-06T12:12:21.200209+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    description: Provides monitoring for Kubernetes which maintaining by Rancher 2.
+    digest: 35c8c3bbace95a379bc4ab19aa1450c4a7de346a850c3515a9885058a3137bec
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.0.5/rancher-monitoring-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v1
+    appVersion: 0.0.4
+    created: "2021-08-06T12:12:21.002663+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: exporter-node-windows.enabled
+      name: exporter-node-windows
+      repository: file://./charts/exporter-node-windows/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    - condition: operator-init.enabled
+      name: operator-init
+      repository: file://./charts/operator-init/
+      version: 0.1.0
+    description: Provides monitoring for Kubernetes which maintaining by Rancher 2.
+    digest: 6aa23cee38021e6b4a909149fc7f82205abf4b244f8b610c7fff0eb4c02e3a56
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.0.4/rancher-monitoring-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
+    appVersion: 0.0.3
+    created: "2021-08-06T12:12:20.786671+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    - condition: operator.enabled,enabled
+      name: operator
+      repository: file://./charts/operator/
+      version: 0.0.2
+    description: Provides monitoring for Kubernetes which maintaining by Rancher 2.
+    digest: dbac6c173f7e77af4a1a737bd817d9b1870ef84a1bafad125ddfce811596793a
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.0.3/rancher-monitoring-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
+    appVersion: 0.0.2
+    created: "2021-08-06T12:12:20.596354+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    description: Provides monitoring for Kubernetes which maintaining by Rancher 2.
+    digest: 7c3cb104bf742ae8711879fe6c485cdbb71b75ba85fbfbee19bb560710764e64
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.0.2/rancher-monitoring-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v1
+    appVersion: 0.23.2
+    created: "2021-08-06T12:12:20.405518+03:00"
+    dependencies:
+    - condition: alertmanager.enabled
+      name: alertmanager
+      repository: file://./charts/alertmanager/
+      version: 0.0.1
+    - condition: exporter-coredns.enabled
+      name: exporter-coredns
+      repository: file://./charts/exporter-coredns/
+      version: 0.0.1
+    - condition: exporter-kube-controller-manager.enabled
+      name: exporter-kube-controller-manager
+      repository: file://./charts/exporter-kube-controller-manager/
+      version: 0.0.1
+    - condition: exporter-kube-dns.enabled
+      name: exporter-kube-dns
+      repository: file://./charts/exporter-kube-dns/
+      version: 0.0.1
+    - condition: exporter-kube-etcd.enabled
+      name: exporter-kube-etcd
+      repository: file://./charts/exporter-kube-etcd/
+      version: 0.0.1
+    - condition: exporter-kube-scheduler.enabled
+      name: exporter-kube-scheduler
+      repository: file://./charts/exporter-kube-scheduler/
+      version: 0.0.1
+    - condition: exporter-kube-state.enabled
+      name: exporter-kube-state
+      repository: file://./charts/exporter-kube-state/
+      version: 0.0.1
+    - condition: exporter-kubelets.enabled
+      name: exporter-kubelets
+      repository: file://./charts/exporter-kubelets/
+      version: 0.0.1
+    - condition: exporter-kubernetes.enabled
+      name: exporter-kubernetes
+      repository: file://./charts/exporter-kubernetes/
+      version: 0.0.1
+    - condition: exporter-node.enabled
+      name: exporter-node
+      repository: file://./charts/exporter-node/
+      version: 0.0.1
+    - condition: grafana.enabled
+      name: grafana
+      repository: file://./charts/grafana/
+      version: 0.0.1
+    - condition: prometheus.enabled
+      name: prometheus
+      repository: file://./charts/prometheus/
+      version: 0.0.1
+    - condition: metric-expression-project.enabled
+      name: metric-expression-project
+      repository: file://./charts/metric-expression-project/
+      version: 0.0.1
+    - condition: metric-expression-cluster.enabled
+      name: metric-expression-cluster
+      repository: file://./charts/metric-expression-cluster/
+      version: 0.0.1
+    - condition: exporter-fluentd.enabled
+      name: exporter-fluentd
+      repository: file://./charts/exporter-fluentd/
+      version: 0.0.1
+    description: Provides monitoring for Kubernetes which maintaining by Rancher 2.
+    digest: 4ac47d3474a825b9f2dd19c499f2f0cf4f73f68a41debccc1244dff48c39d599
+    home: https://github.com/coreos/prometheus-operator
+    icon: https://coreos.com/sites/default/files/inline-images/Overview-prometheus_0.png
+    keywords:
+    - operator
+    - prometheus
+    maintainers:
+    - email: frank@rancher.com
+      name: thxCode
+    name: rancher-monitoring
+    sources:
+    - https://github.com/coreos/prometheus-operator
+    urls:
+    - https://github.com/jleski/rancher-system-charts/releases/download/rancher-monitoring-0.0.1/rancher-monitoring-0.0.1.tgz
+    version: 0.0.1
+generated: "2021-08-06T12:12:23.511345+03:00"
