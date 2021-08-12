@@ -1,4 +1,4 @@
 [submodule "release-v2.5"]
 	path = release-v2.5
-	url = https://github.com/rancher/system-charts.git
+	url = https://git.rancher.io/charts
 	branch = release-v2.5
